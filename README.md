@@ -2,3 +2,5 @@
 https://macappstore.org/rkflashtool/
 
 # 2 使用下载工具给开发板下载img
+http://rockchip.wikidot.com/rkflashtool
+
