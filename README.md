@@ -21,3 +21,6 @@ make ARCH=arm64 rk3308-roc-cc-dmic-pdm_emmc.img -j12
 开机后确认烧录img是否正确
 <img width="1074" alt="image" src="https://user-images.githubusercontent.com/11375905/219933225-f68a0c5b-73cd-4060-b064-9c7c48489132.png">
 
+
+# 5 开发板资料
+https://wiki.t-firefly.com/ROC-RK3308-CC/index.html
