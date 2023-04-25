@@ -6,6 +6,7 @@ http://rockchip.wikidot.com/rkflashtool
 
 # 3 编译libusb 在MacBook上
 https://gist.github.com/vitorio/c239128dea1a4af23031059d6ca32c35
+https://mp.weixin.qq.com/s/e3l9pFUVLfr14nrzypAbTg
 
 # 4 编译kernel
 make ARCH=arm64 firefly-rk3308_linux_defconfig
